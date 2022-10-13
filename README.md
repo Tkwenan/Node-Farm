@@ -10,3 +10,4 @@ Dependencies: This project uses a simple dependency called 'Slugify' which is a 
 Run 'npm install slugify'. Then, run 'npm start' to start up the app. Navigate to localhost:3000 on your browser to see and use the app.
 
 
+<img width="1440" alt="Screen Shot 2022-10-13 at 4 27 02 PM" src="https://user-images.githubusercontent.com/54999162/195721401-0227487d-8761-4b4f-8290-45fb91439fa7.png">
